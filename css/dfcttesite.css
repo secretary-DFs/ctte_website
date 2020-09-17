@@ -262,6 +262,7 @@ div.menu{
   transition: background-color 0.5s ease, color 0.5s ease, border 0.5s ease;
 }
 .menu table td:hover{
+  background-color: rgb(255,255,255);
   background-color: rgba(255,255,255, 0);
 }
 div.links{
