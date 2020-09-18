@@ -14,9 +14,9 @@
 
 
 html {
-    background:url('../images/wild_path.jpg') #ffffff;
+	  background: url('../images/background_1.jpg') #fff;
     background-size:cover;
-    /* background-repeat: repeat; */
+    background-repeat: repeat;
     background-attachment: fixed;
     position:absolute;
     min-width: 530px;
